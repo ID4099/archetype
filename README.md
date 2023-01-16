@@ -43,6 +43,9 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# Services orchestration with Docker-compose.yml
+$ docker-compose up # Or background execution
 ```
 
 ## Test
